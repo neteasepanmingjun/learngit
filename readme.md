@@ -1,2 +1,2 @@
-read me.test
-panxx create
+read me.test2
+panxx change 
